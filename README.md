@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/FirstBlackList/Radio_test/actions/workflows/maven.yml/badge.svg?branch=flexible)](https://github.com/FirstBlackList/Radio_test/actions/workflows/maven.yml)
 # Домашнее задание к занятию «Объекты с внутренним состоянием, управление состоянием при тестировании»
 # Задание 1. Радиоман 
 
